@@ -1,0 +1,12 @@
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net5.0/Play.Catalog.Contracts.deps.json
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net5.0/Play.Catalog.Contracts.dll
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net5.0/ref/Play.Catalog.Contracts.dll
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net5.0/Play.Catalog.Contracts.pdb
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.csprojAssemblyReference.cache
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.AssemblyInfoInputs.cache
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.AssemblyInfo.cs
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.dll
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/ref/Play.Catalog.Contracts.dll
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.pdb

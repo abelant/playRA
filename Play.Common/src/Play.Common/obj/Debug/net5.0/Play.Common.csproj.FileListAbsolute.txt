@@ -1,0 +1,12 @@
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/bin/Debug/net5.0/Play.Common.deps.json
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/bin/Debug/net5.0/Play.Common.dll
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/bin/Debug/net5.0/ref/Play.Common.dll
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/bin/Debug/net5.0/Play.Common.pdb
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.csprojAssemblyReference.cache
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.AssemblyInfoInputs.cache
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.AssemblyInfo.cs
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.csproj.CoreCompileInputs.cache
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.dll
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/obj/Debug/net5.0/ref/Play.Common.dll
+/Users/abelant.zahiri@mccglc.com/Desktop/projects/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.pdb
